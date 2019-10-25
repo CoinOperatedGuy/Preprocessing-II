@@ -270,7 +270,6 @@ header .nav-container nav a {
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    border: 1px solid red;
   }
 }
 .home .content-section .text-content {
